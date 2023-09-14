@@ -22,12 +22,10 @@
 
 #### IAM (Identity and Access Management)
 - Web service that helps you secure control access with those you chose.
-- 
 
 ### ii. New Information
 shared responsibility model: share the responsibility w aws to keep info secured.AWS is in charge of networks, infrastructure. 
 - ISMS; Info security management systems
 - principle of least privlidge: giving users limited amount of access
 - need to protect data: at rest and in transit
-### iii. Questions
 
